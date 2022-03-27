@@ -1,5 +1,5 @@
 {
-	"type": "groundUnit",
+	"type": "mech",
 	"name": "Scorpio",
 	"description": "Armoured long ranged ground artillery unit eqquiped with armor corroding spore rockets.",
 	"maxVelocity": 0.48,
