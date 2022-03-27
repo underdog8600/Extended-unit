@@ -1,5 +1,5 @@
 {
-	"type": "FlyingUnit",
+	"type": "flying",
 	"name": "Recreant",
 	"description": "Crimson flyer equipped with nitroglycerin sprayers.",
    "drag": 0.1,
