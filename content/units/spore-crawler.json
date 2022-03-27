@@ -1,5 +1,5 @@
 {
-	"type": "groundUnit",
+	"type": "mech",
 	"name": "Spore crawler",
 	"description": "Fast bomb units packed with destructive spores.",
 	"maxVelocity": 1.2,
