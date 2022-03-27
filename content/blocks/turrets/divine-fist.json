@@ -13,7 +13,6 @@
 	"recoil": 5,
 	"maxAmmo": 150,
 	"ammoPerShot": 150,
-	"ammoUseEffect": "shellEjectBig",
 	"shootCone": 60,
 	"rotateSpeed": 50,
 	"range": 80,
@@ -21,6 +20,7 @@
 		"surge-alloy":{
 		"ammoMultiplier": 1,
 		"type": "BasicBulletType",
+		"shootEffect": "shellEjectBig",
 		"speed": 1.5,
 		"instantDisappear": true,
 		"lifetime": 10,
