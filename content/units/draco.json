@@ -1,5 +1,5 @@
 {
-	"type": "FlyingUnit",
+	"type": "flying",
 	"name": "Draco",
 	"description": "Cruiser-class battleship. Equipped with scorch-class armaments. High close range damage.",
    "drag": 0.1,
