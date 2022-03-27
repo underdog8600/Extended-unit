@@ -13,13 +13,13 @@
 	"ammoPerShot": 24,
 	"spread": 0,
 	"recoil": 4,
-	"ammoUseEffect": "shellEjectBig",
 	"shootCone": 120,
 	"rotatespeed": 5,
 	"range": 240,
 	"ammo": {
 	"pyratite":{
 		 "type": "BasicBulletType",
+		 "shootEffect": "shellEjectBig",
 		 "ammoMultiplier": 2,
       "bulletWidth": 30,
       "speed": 5,
