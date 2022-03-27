@@ -1,5 +1,5 @@
 {
-	"type": "HoverUnit",
+	"type": "flying",
 	"name": "Kraken",
 	"description": "high-end capital-class battleship. Uses tentacle like blasts which cause damage to anything that finds its way below it and leaves spores which linger and act as walls for the battleship.",
    "drag": 0.15,
