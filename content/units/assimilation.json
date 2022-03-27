@@ -1,5 +1,5 @@
 {
-	"type": "BuilderDrone",
+	"type": "flying",
 	"name": "Assimilation Construction Drone",
 	"description": "Large cruiser class phantom variants.",
    "drag": 0.01,
