@@ -1,5 +1,5 @@
 {
-	"type": "BuilderDrone",
+	"type": "flying",
 	"name": "Shield Drone",
 	"description": "protective drones which orbit around the player.",
    "drag": 0.005,
