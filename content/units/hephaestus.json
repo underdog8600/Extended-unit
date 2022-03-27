@@ -1,5 +1,5 @@
 {
-	"type": "FlyingUnit",
+	"type": "flying",
 	"name": "Hephaestus",
 	"description": "Cruiser-class battleship. Equipped with hephaestean blaze actuators which leave lingering explosive trails.",
    "drag": 0.05,
