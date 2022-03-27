@@ -1,5 +1,5 @@
 {
-	"type": "FlyingUnit",
+	"type": "flying",
 	"name": "Hawk",
 	"description": "fast unit with light sniper armaments.",
    "drag": 0.08,
