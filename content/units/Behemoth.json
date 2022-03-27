@@ -1,5 +1,5 @@
 {
-	"type": "groundUnit",
+	"type": "mech",
 	"name": "Behemoth",
 	"description": "An abomination from the depths. It's slow speed is a blessing from the heavens. You are going to need all the time and firepower you can get to take this titan down.",
 	"maxVelocity": 0.1,
