@@ -12,9 +12,7 @@
 	"ammoPerShot": 12,
 	"spacing": 3,
 	"shootShake":3,
-	
 	"recoil": 3,
-	"ammoUseEffect": "shellEjectBig",
 	"shootCone": 60,
 	"rotateSpeed": 30,
 	"range": 250,
@@ -22,8 +20,9 @@
 		"crimson-alloy":{
 			"ammoMultiplier": 1,
 			"bulletWidth": 12,
-		     "bulletHeight": 12,
+		     	"bulletHeight": 12,
              "type": "MissileBulletType",
+	     "shootEffect": "shellEjectBig",
              "lifetime": 60,
              "damage": 50,
              "speed": 3,
