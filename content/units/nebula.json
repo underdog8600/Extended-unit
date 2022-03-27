@@ -1,5 +1,5 @@
 {
-	"type": "FlyingUnit",
+	"type": "flying",
 	"name": "Nebula",
 	"description": "Cruiser-class battleship. Equipped with electric arcs. allowing damage past walls.",
     "drag": 0.05,
