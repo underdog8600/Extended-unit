@@ -1,5 +1,5 @@
 {
-	"type": "FlyingUnit",
+	"type": "flying",
 	"name": "Eagle",
 	"description": "Basic fighter equipped with machine guns.",
    "drag": 0.08,
