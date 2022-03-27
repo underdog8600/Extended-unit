@@ -1,5 +1,5 @@
 {
-	"type": "Revenant",
+	"type": "flying",
 	"name": "Kugelblitz",
 	"description": "Cruiser-class battleship. Equipped with E.M.P. missiles which cause little damage but over a vast area",
    "drag": 0.15,
