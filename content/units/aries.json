@@ -1,5 +1,5 @@
 {
-	"type": "groundUnit",
+	"type": "mech",
 	"name": "Aries",
 	"description": "Fast melee mech with high close range damage.",
 	"maxVelocity": 1.8,
