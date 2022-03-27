@@ -1,5 +1,5 @@
 {
-	"type": "groundUnit",
+	"type": "mech",
 	"name": "Forlorned",
 	"description": "Destructive artilerry units armed with hard hitting bomb payloads which are launched over walls.",
 	"maxVelocity": 0.4,
