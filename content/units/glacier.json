@@ -1,5 +1,5 @@
 {
-	"type": "HoverUnit",
+	"type": "flying",
 	"name": "Aquarius",
 	"description": "Cruiser-class battleship. Equipped with cryo bullets which cause damage and freeze enemies. useful in stalling capitals and fleets",
     "drag": 0.1,
