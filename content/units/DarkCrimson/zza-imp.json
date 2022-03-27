@@ -1,5 +1,5 @@
 {
-	"type": "FlyingUnit",
+	"type": "flying",
 	"name": "Imp",
 	"description": "Darksteel missile interceptor.",
    "drag": 0.1,
