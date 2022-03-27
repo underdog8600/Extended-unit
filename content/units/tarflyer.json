@@ -1,5 +1,5 @@
 {
-	"type": "FlyingUnit",
+	"type": "flying",
 	"name": "Tar flyer",
 	"description": "fast unit with oil sprayers. Helps ignite areas by dropping oil.",
    "drag": 0.05,
