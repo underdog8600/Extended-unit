@@ -7,7 +7,7 @@
     "hasPower": true,
     "hasLiquid": false,
 	"powerUse": 14,
-    "shootType": "arc",
+    "shootType": {"type": "arc"},
     "health": 2500,
     "size": 4,
     "inaccuracy": 360,
