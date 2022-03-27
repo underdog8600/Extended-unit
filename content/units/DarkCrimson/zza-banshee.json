@@ -1,5 +1,5 @@
 {
-	"type": "FlyingUnit",
+	"type": "flying",
 	"name": "Banshee",
 	"description": "Agile armored darksteel pursuit cruiser. Launches electric missiles and is immune to traditional slowing effects.",
    "drag": 0.07,
