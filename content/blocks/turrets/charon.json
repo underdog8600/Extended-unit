@@ -13,7 +13,6 @@
 	"spread": 1,
 	"recoil": 5,
 	"weaponOffsetY": -5,
-	"ammoUseEffect": "shellEjectBig",
 	"shootCone": 30,
 	"shootShake": 3,
 	"rotateSpeed": 40,
@@ -22,6 +21,7 @@
 		"crimson-compoundB":{
 		"ammoMultiplier": 3,
 		"type": "BasicBulletType",
+		"shootEffect": "shellEjectBig",
 		"bulletWidth": 20,
 		"bulletHeight": 25,
 		"bulletShrink": 0.9,
