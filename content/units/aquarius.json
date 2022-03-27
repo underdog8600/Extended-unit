@@ -1,5 +1,5 @@
 {
-	"type": "FlyingUnit",
+	"type": "flying",
 	"name": "Cryo Flyer ",
 	"description": "Fighter flyer equipped with freeze cannons.",
    "drag": 0.01,
