@@ -1,5 +1,5 @@
 {
-	"type": "groundUnit",
+	"type": "mech",
 	"name": "Sabertooth",
 	"description": "Large but agile shotgun unit.",
 	"maxVelocity": 0.6,
