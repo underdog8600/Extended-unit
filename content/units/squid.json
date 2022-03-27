@@ -1,5 +1,5 @@
 {
-	"type": "FlyingUnit",
+	"type": "flying",
 	"name": "Squid",
 	"description": "Light cruiser-class battleship. Drops spore filled bombs which linger around.",
    "drag": 0.06,
