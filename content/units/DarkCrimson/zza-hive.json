@@ -1,5 +1,5 @@
 {
-	"type": "Revenant",
+	"type": "flying",
 	"name": "Hive",
 	"description": "Heavy capital class battleship. Carries destructive homing drones which repeatedly target and attack objects.",
     "drag": 0.2,
