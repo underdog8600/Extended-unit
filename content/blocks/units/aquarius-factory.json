@@ -22,5 +22,5 @@
 		{"item": "silicon", "amount" : 45},
 	],
 	"category": "units",
-	"research": "wraith-factory"
+	"research": "air-factory"
 }
