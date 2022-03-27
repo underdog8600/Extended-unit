@@ -1,5 +1,5 @@
 {
-	"type": "FlyingUnit",
+	"type": "flying",
 	"name": "Locust",
 	"description": "Close range swarmer drones.",
    "drag": 0.05,
