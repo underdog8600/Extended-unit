@@ -1,5 +1,5 @@
 {
-	"type": "groundUnit",
+	"type": "mech",
 	"name": "Thorium Crawler",
 	"description": "Large crawlers with mounted thorium reactors. Explodes violently near foreign structures.",
 	"maxVelocity": 0.5,
