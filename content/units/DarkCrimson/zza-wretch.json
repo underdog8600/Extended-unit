@@ -1,5 +1,5 @@
 {
-	"type": "groundUnit",
+	"type": "mech",
 	"name": "Wretch",
 	"description": "Infrastructure damage unit which shoots highly flamable and explosive liquids.",
 	"maxVelocity": 0.3,
