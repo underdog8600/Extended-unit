@@ -1,5 +1,5 @@
 {
-	"type": "FlyingUnit",
+	"type": "flying",
 	"name": "Phantasm",
 	"description": "Hard to hit stealth cruiser. Excellent diversion unit.",
    "drag": 0.03,
