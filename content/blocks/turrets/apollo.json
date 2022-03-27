@@ -11,13 +11,13 @@
 	"shots": 36,
 	"spread": 10,
 	"recoil": 0,
-	"ammoUseEffect": "shellEjectBig",
 	"shootCone": 360,
 	"rotateSpeed": 50,
 	"range": 200,
 	"ammo": {
 		"phase-fabric":{
 		"type": "BasicBulletType",
+		"shootEffect": "shellEjectBig",
 		"speed": 1.5,
 		"lifetime": 100,
 		"collides": true,
