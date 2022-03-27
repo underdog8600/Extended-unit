@@ -1,5 +1,5 @@
 {
-	"type": "HoverUnit",
+	"type": "flying",
 	"name": "Supernova",
 	"description": "Advanced Electric missile array capital. Launches electric-incendiary missiles in all directions",
    "drag": 0.15,
