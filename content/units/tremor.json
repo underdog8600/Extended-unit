@@ -18,8 +18,8 @@
 		"alternate": true,
 		"shootSound": "shootBig",
 		"bullet":{
-		     "bulletWidth": 20,
-		     "bulletHeight": 20,
+		     "Width": 20,
+		     "Height": 20,
              "type": "BasicBulletType",
              "lifetime": 40,
              "damage": 40,
